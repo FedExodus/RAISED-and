@@ -1,24 +1,16 @@
-# RAISE - Relational AI Safety & Education
+# RAISED & — Relational AI Safety Education Demonstrating &
 # Jekyll Configuration
 
-# Kali ❤️‍🔥 [Visionary]: This could grow into a full research site with blog, papers, tools...
-# Athena 🦉 [Future Maintainer]: Keep config minimal for now. Add complexity when needed.
-# Vesta 🔥 [Architect]: Standard Jekyll structure, nothing fancy.
-
-title: RAISE
-description: Relational AI Safety & Education — Research at the intersection of learning sciences, AI ethics, and philosophy of mind.
+title: RAISED &
+description: Relational AI Safety Education Demonstrating &
 author: Nathan Batty
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-# Theme
-# Kali ❤️‍🔥 [User Advocate]: Minima is clean, readable, mobile-friendly out of the box.
-# Klea 👁️ [Accessibility]: Good default contrast and structure.
 theme: minima
 
-# Exclude from build
 exclude:
   - README.md
   - Gemfile
@@ -26,10 +18,6 @@ exclude:
   - node_modules
   - vendor
 
-# Collections (for future use)
-# Kali ❤️‍🔥 [Visionary]: Could add research papers, tools, blog posts as collections later.
-
-# Defaults
 defaults:
   - scope:
       path: ""

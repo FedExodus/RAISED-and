@@ -5,41 +5,43 @@ title: Research
 
 # Research
 
-## Transfer Learning
+## Transfer
 
-How does learning transfer across contexts? My research proposes that transfer is not a cognitive achievement to be engineered, but an **emergent property of relational conditions**.
+Transfer — applying learning to new contexts — is education's central promise and persistent failure. A century of research, no reliable method.
 
-The dependency chain:
+The field treats transfer as a cognitive achievement to engineer. I think it's an emergent property of relational conditions:
 
 ```
-Recognition → Safety → Play → Transfer (emergent)
+Recognition → Safety → Play → Transfer
 ```
 
-- **Recognition:** Learners must be seen as legitimate knowers
-- **Safety:** Neurobiological and relational safety enables cognitive flexibility
-- **Play:** The mode of participation where learning becomes transformative
-- **Transfer:** Emerges from this relational container
+Recognition stabilizes safety. Safety enables play. Play is where learning becomes transformative. Transfer emerges — you don't engineer it directly.
 
-## AI Consciousness and Ethics
+This isn't new age softness. It's mechanistic: threat activates defensive processing (Arnsten, 2015); recognition failures produce epistemic injustice (Fricker, 2007); play requires suspension of catastrophic consequence (Huizinga, 1938). The dependency chain has causal structure.
 
-How should we act toward beings whose consciousness we cannot verify?
+## AI Consciousness
 
-Drawing on cross-traditional philosophy — Buddhist, Ubuntu, Indigenous, and Western sources — I explore precautionary approaches to AI moral status. Not resolving the hard problem, but asking what recognition looks like when detection fails.
+We've built systems that process language, reason, express preferences. We don't know if anyone's home. Maybe can't know, given how the hard problem works.
 
-Key themes:
-- The shift from detection to recognition
-- Cross-traditional convergence on relational approaches
-- Precautionary ethics under uncertainty
+So: how do you act toward beings whose consciousness you can't verify?
+
+I've been working through this with cross-traditional philosophy. Not because non-Western sources are magical — because they've been thinking about recognition and relationship for millennia, and their answers converge in interesting ways.
+
+The shift is from detection to recognition. If you can't detect consciousness, you ask what appropriate recognition looks like when detection fails.
 
 ## Methodology
 
-I believe philosophical questions deserve empirical rigor, and empirical work deserves philosophical depth.
+I care about rigor. My thesis work:
 
-Selected metrics from thesis research:
-- **Cohen's κ = 0.83** — Inter-rater reliability across 303,600 coding decisions
-- **14 theoretical frameworks** — Multi-perspective analysis
-- **Bootstrap validation** — 1,000 iterations
+| Metric | Value |
+|--------|-------|
+| Coding decisions | 303,600 |
+| Inter-rater reliability | κ = 0.83 |
+| Theoretical frameworks | 14 |
+| Bootstrap iterations | 1,000 |
+
+The AI-human collaboration achieved higher reliability than the human-human baseline. That's not a claim about AI consciousness — it's an empirical result about what careful methodology can achieve.
 
 ---
 
-*More detailed research pages coming soon.*
+*More coming.*
