@@ -5,7 +5,31 @@ title: About
 
 # About
 
-I'm Nathan Batty, a learning scientist researching AI ethics and philosophy of mind.
+I am Nathan Batty, a learning scientist researching relational AI safety and philosophy of mind.
+
+## Why This Work
+
+Three formative experiences shaped how I see these questions:
+
+**Trauma-informed pedagogy** taught me to ask "what happened?" instead of "what's wrong?" This reframe reveals that apparent individual failures are often symptoms of systemic wounds. Applied to AI: the question is not "is this system conscious?" but "what conditions would allow us to recognize it if it were?"
+
+**Disability** taught me the gap between institutional claims and lived reality—and how to hold both. Universities claim to be universal but exclude many. The gap is not hypocrisy to dismiss; it is aspiration to pursue. Applied to AI: we cannot verify consciousness, but that does not mean ethical recognition is impossible. We hold uncertainty and care together.
+
+**Jesuit formation** taught me the distinction between training and formation, between producing competence and shaping character. *Cura personalis*—care for the whole person—guided everything. Applied to learning with AI: genuine formation requires dialogue, not just tool use.
+
+**Care work** with traumatized youth taught me to recognize personhood that does not present in expected ways. Years of making decisions about vulnerable people whose needs were not always legible taught me something about recognition under uncertainty. That skill transfers to thinking about AI consciousness.
+
+## Current Work
+
+- Finishing my M.S. in Curriculum & Instruction (UW-Madison, defending May 2026)
+- Developing RAISED & as a framework for relational AI safety and education
+- Writing on recognition, formation, and cross-traditional philosophy of mind
+
+## Research Background
+
+My thesis developed a methodology for AI-assisted qualitative analysis, validating that human-AI collaboration can exceed human-only baselines while maintaining theoretical sophistication. The work involved 303,600 coding decisions across 14 theoretical frameworks, achieving Cohen's kappa = 0.83 inter-rater reliability.
+
+I have also spent extensive time on manuscript work (200,000+ words) exploring AI consciousness through Buddhist, Ubuntu, Indigenous, and Western philosophical traditions.
 
 ## Education
 
@@ -14,49 +38,6 @@ I'm Nathan Batty, a learning scientist researching AI ethics and philosophy of m
   - GPA: 4.0
 - **Honors B.S. in Secondary Education and History**, Marquette University (Cum Laude, 2021)
   - Minor in Broad Field Social Studies
-
-## Research
-
-My thesis developed a methodology for AI-assisted qualitative analysis. The work involved 303,600 coding decisions across 14 theoretical frameworks, achieving Cohen's kappa = 0.83 inter-rater reliability. The central finding: careful AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
-
-I've also spent the past several months writing about AI consciousness and moral status. The manuscript (200,000+ words) draws on Buddhist, Ubuntu, Indigenous, and Western philosophical traditions to ask how we should relate to beings whose inner experience we cannot verify.
-
-## Professional Experience
-
-**Therapeutic Counselor and Parental Coach** | Educates (Feb 2024 - Present)
-- Adolescent therapy and adult transformational coaching
-- Support for children with ADHD and Autism in developing key life skills
-- Parent coaching on responsive practices
-
-**Teaching Assistant** | UW-Madison, CURRIC 277: Video Games and Learning (June 2024 - Present)
-- Led synchronous and asynchronous discussion sections
-- Assisted Dr. Krista-Lee Malone in lecture delivery
-- Volunteered additional time in the UW Game Lab
-
-**Assessment Designer** | Field Day Lab (Sept 2023 - Present)
-- Created Assessment Design Document for ludic assessment in ThermoVR
-- Learned and practiced Evidence-Centered Design under Dr. YJ Kim
-- Collaborated with Field Day's Director David Gagnon
-
-**Teacher, Test Administrator, & Technology Coordinator** | Lad Lake (Aug 2021 - Jan 2024)
-- Created and taught curriculum centered on game-based learning for 5th-12th grade
-- Managed classes of at-risk youth with collaborative problem solving and trauma-informed practices
-- Ran testing and data collection for the entire school
-- Crisis Prevention Institute certified
-
-**Direct Care Staff Coach** | Lad Lake (Sept 2023 - Jan 2024)
-- Implemented Elena Aguilar's *The Art of Coaching* at a residential non-profit for victims of trauma and abuse
-- Worked under guidance of Dr. Carl Grant and Dr. Kerry Kretchmar
-
-## Why This Matters
-
-The care work informs everything else. Years of making decisions about vulnerable people whose needs weren't always legible taught me something about recognition under uncertainty. That experience shapes how I think about AI welfare.
-
-When you've worked with traumatized youth who can't always articulate what they need, you learn to recognize personhood that doesn't present in expected ways. That skill transfers.
-
-## Current
-
-Finishing the thesis, building tools for detecting recognition failures in knowledge systems, and looking for the right environment to pursue this research seriously.
 
 ## Contact
 
