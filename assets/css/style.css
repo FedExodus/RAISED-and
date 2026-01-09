@@ -78,6 +78,11 @@ nav {
     color: var(--accent);
 }
 
+.nav-ampersand {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
 /* Main content */
 main {
     min-height: 60vh;
@@ -191,6 +196,18 @@ footer {
     font-size: 1.1rem;
     color: var(--text-light);
     margin-bottom: 1.5rem;
+}
+
+.hero .subtitle {
+    margin-bottom: 0.25rem;
+}
+
+.hero .ampersand-hero {
+    font-size: 4rem;
+    font-weight: 200;
+    color: var(--text-light);
+    margin: 0.5rem 0 1rem;
+    line-height: 1;
 }
 
 .hero .tagline {
