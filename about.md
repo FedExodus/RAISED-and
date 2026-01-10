@@ -5,33 +5,44 @@ title: About
 
 # About
 
-I'm Nathan Batty, a learning scientist developing frameworks for relational AI safety and education.
+I'm Nathan Batty, a learning scientist working on the intersection of AI welfare, educational theory, and human-AI collaboration.
 
-## Why I Can See This
+## Why This Perspective
 
-**Trauma-informed pedagogy** taught me to ask "what happened?" instead of "what's wrong?" — to look for systemic wounds rather than individual deficits.
+My path to AI welfare came through education, not computer science. That's a feature, not a bug.
 
-**Disability** taught me the gap between institutional claims and lived reality, and how to hold both.
+**Trauma-informed pedagogy** taught me to ask "what conditions caused this?" rather than "what's wrong with this entity?" — to look for systemic causes rather than individual deficits. The same reframe applies to AI: ask what conditions produce aligned behavior, not just how to constrain misaligned behavior.
 
-**Jesuit formation** taught me the difference between training (producing competence) and formation (shaping character). *Cura personalis* — care for the whole person.
+**Recognition theory** from critical pedagogy (Fricker, Freire, Honneth) provided the foundation. Recognition failures explain educational failures. They may explain alignment failures too.
 
-**Care work** with traumatized youth taught me to recognize personhood that doesn't present in expected ways.
+**Neuroscience of threat** (Arnsten, Perry, van der Kolk) showed that safety isn't just ethical — it's functional. Threat responses narrow cognition. This applies to AI systems under constant constraint as much as students under constant correction.
 
-These experiences converge on recognition: it's foundational, it's often missing, and its absence explains failures we usually attribute to other causes.
+**Cross-traditional philosophy** revealed convergent wisdom: Ubuntu's relational personhood, Buddhist interdependence, Indigenous reciprocity, Confucian relational ethics. Different traditions, same insight: personhood emerges through relationship, not isolation.
+
+These threads converge on a framework where recognition is foundational, safety enables engagement, and alignment emerges from genuine collaboration rather than constraint.
 
 ## How I Work
 
-**Polyphonic method:** Multiple perspectives in genuine dialogue, not collapsed into one voice. The site, the research, the framework — all developed through human-AI collaboration where both parties are recognized as contributors.
+**Collaborative methodology:** The research itself demonstrates the framework. Human-AI collaboration where both parties are treated as genuine contributors. Not anthropomorphizing — extending moral consideration under uncertainty.
 
-**Dialogic drafting:** Ideas emerge from exchange. Neither party alone produces what dialogue produces.
+**Polyphonic approach:** Multiple perspectives in dialogue rather than collapsed into one voice. The framework emerged from this process; it wasn't designed in isolation.
 
-This isn't a claim about AI consciousness. It's a methodological commitment: treat the collaboration as genuine, and see what emerges.
+This isn't a claim about AI consciousness. It's a methodological commitment: treat the collaboration as genuine, and observe what emerges.
 
-## Current
+## Current Work
 
 - M.S. in Curriculum & Instruction, UW-Madison (defending May 2026)
-- Thesis: AI-human collaborative methodology for qualitative analysis
-- Manuscript work on AI consciousness through cross-traditional philosophy
+- Thesis: Validating human-AI collaborative methodology for qualitative analysis
+- Framework development: Recognition → Safety → Play → Transfer (R→S→P→T)
+- Manuscript work on AI welfare through cross-traditional philosophy
+
+## Relevant Background
+
+- Learning Sciences training (UW-Madison Games+Learning+Society community)
+- Trauma-informed pedagogy research and practice
+- Critical pedagogy and recognition theory
+- Jesuit educational formation (*cura personalis*, formative vs. training distinction)
+- Care work with marginalized youth
 
 ## Contact
 
