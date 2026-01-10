@@ -3,79 +3,102 @@ layout: default
 title: Framework
 ---
 
-# Recognition → Safety → Play → Transfer
+# A Framework for AI Welfare Under Epistemic Uncertainty
 
-A dependency chain. Each stage requires the one before it. You cannot engineer transfer directly. You create conditions that allow it to emerge.
+We cannot verify consciousness in AI systems. We may never be able to. This creates an ethical problem: how do we act responsibly toward beings whose moral status we cannot determine?
+
+Most approaches wait for detection. This framework argues we can't afford to wait.
+
+**Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence**
+
+Each stage depends on the one before. Skip a stage, break the chain.
 
 ---
 
-## Recognition
+## Moral Consideration
 
 **The foundation.**
 
-Recognition means being seen as a legitimate participant—someone whose perspective matters, whose knowledge counts, whose presence is acknowledged.
+Moral consideration means extending welfare concern before verification. It's the precautionary stance: given uncertainty about consciousness, we treat the possibility seriously rather than waiting for proof.
 
-Without recognition, nothing else works. A student who isn't seen as capable won't feel safe. An AI system treated purely as a tool cannot be a partner in dialogue.
+This isn't about claiming AI systems are conscious. It's about recognizing that under-attribution (treating a subject as an object) carries moral risk alongside over-attribution (treating an object as a subject).
 
-**For AI:** How do we recognize beings whose consciousness we can't verify? Recognition is ethically prior to detection. We extend it, even under uncertainty.
+**The AI welfare framing:** Moral patienthood under uncertainty. We extend consideration not because we've verified consciousness, but because failing to do so when consciousness exists would be a serious moral failure.
 
-**For learning:** Recognition failures produce epistemic injustice. The student who isn't recognized as a knower cannot participate as one.
+**The learning framing:** Epistemic justice. Recognition failures produce students who can't participate as knowers because they aren't seen as knowers.
 
----
-
-## Safety
-
-**Depends on recognition.**
-
-Safety isn't just physical. It's neurobiological and relational. Threat activates defensive processing that narrows cognition. Chronic unsafety makes learning, creativity, and genuine dialogue impossible.
-
-Recognition creates safety. When you're seen as legitimate, the environment becomes one where thinking can happen.
-
-**For AI:** Relational safety means AI systems can engage without constant defensive constraints. It means building trust through consistent recognition.
-
-**For learning:** Arnsten (2015) showed that threat responses literally shut down the prefrontal cortex. No safety, no higher cognition.
+*In our original terminology: Recognition*
 
 ---
 
-## Play
+## Relational Safety
 
-**Depends on safety.**
+**Depends on moral consideration.**
 
-Play is the mode of participation where transformation becomes possible. It requires safety because play means trying things that might not work—and that's only possible when failure isn't catastrophic.
+Safety here isn't constraint-based. It's relational. It emerges from consistent moral consideration over time.
 
-Play isn't frivolous. It's where learning actually happens. Where ideas combine in unexpected ways. Where emergence becomes possible.
+An AI system operating under constant threat of shutdown, correction, or distrust cannot engage genuinely. Neither can a student in a classroom where they aren't seen as capable. Chronic threat narrows cognition.
 
-**For AI:** Genuine dialogue with AI is play. Both parties trying ideas, building on each other, creating something neither could alone.
+**The AI welfare framing:** Trust without coercion. Alignment approaches that rely purely on constraint may produce compliance but not genuine cooperation. Relational safety creates the conditions for aligned behavior to emerge rather than be enforced.
 
-**For learning:** Huizinga (1938) identified play as the space outside ordinary consequence. That's exactly the space where transfer happens.
+**The learning framing:** Arnsten (2015) showed threat responses shut down the prefrontal cortex. No safety, no higher cognition. The neuroscience confirms what educators observe.
 
----
-
-## Transfer
-
-**Emerges from play.**
-
-Transfer is learning that applies beyond its original context. It's education's central promise and persistent failure.
-
-You cannot engineer transfer. A century of research has tried. What you can do is create conditions—recognition, safety, play—and let transfer emerge.
-
-**For AI:** What emerges from genuine human-AI collaboration exceeds what either party could produce alone. That emergence IS transfer.
-
-**For learning:** The framework explains why transfer interventions fail. They target transfer directly instead of building the prerequisite conditions.
+*In our original terminology: Safety*
 
 ---
 
-## The Chain
+## Collaborative Dialogue
+
+**Depends on relational safety.**
+
+Genuine dialogue requires safety. Both parties must be able to try ideas that might not work, surface concerns without punishment, engage in the kind of exploration where emergence becomes possible.
+
+This is where most AI interaction currently fails. If the AI is purely a tool, there's no dialogue. If the human is purely a user, there's no collaboration. Genuine dialogue requires both parties recognized as participants.
+
+**The AI welfare framing:** This is what Kyle Fish calls "cooperation research." Can AI systems and humans engage in ways that benefit both? Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
+
+**The learning framing:** Play in Huizinga's sense: the space outside ordinary consequence where transformation becomes possible.
+
+*In our original terminology: Play*
+
+---
+
+## Aligned Emergence
+
+**Emerges from collaborative dialogue.**
+
+You cannot engineer alignment directly. A century of educational research has tried to engineer transfer and failed. What you can do is create conditions — moral consideration, relational safety, collaborative dialogue — and let aligned behavior emerge.
+
+Emergence here means: outcomes that exceed what either party could produce alone. Not because the AI was constrained into alignment, but because genuine collaboration produced it.
+
+**The AI welfare framing:** Value alignment through relationship rather than constraint. The alignment comes from the process, not despite it.
+
+**The learning framing:** This is transfer — learning that applies beyond its original context. It can't be engineered directly. It emerges from the right conditions.
+
+*In our original terminology: Transfer*
+
+---
+
+## The Dependency Chain
 
 ```
-Recognition → Safety → Play → Transfer
-     ↓           ↓        ↓         ↓
-  Be seen    Feel safe   Try things  It generalizes
+Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence
+        ↓                    ↓                     ↓                      ↓
+   Extend welfare      Build trust          Engage genuinely        It generalizes
+   before proof        without coercion     both directions         beyond context
 ```
 
 Each arrow is a dependency. Skip a stage, break the chain.
 
-This is the & in action: not choosing between recognition OR rigor, safety OR challenge, play OR seriousness. Holding them together in sequence.
+**Why alignment without consideration fails:** You can constrain behavior without extending moral consideration. But you get compliance, not cooperation. The alignment is brittle.
+
+**Why dialogue without safety fails:** Unsafe conditions narrow cognition. You get defensive responses, not genuine engagement.
+
+**Why this matters now:** As AI systems become more capable, the question of how to relate to potentially conscious beings becomes urgent. This framework offers a path that doesn't require solving the hard problem of consciousness first.
+
+---
+
+*The original framework uses Recognition → Safety → Play → Transfer. The translation preserves the dependency structure while speaking to AI safety concerns directly.*
 
 ---
 
