@@ -5,33 +5,53 @@ title: Research
 
 # Research
 
-## Empirical Validation
+## Validating Collaborative Alignment
 
-The framework isn't just theory. It has empirical grounding.
+The framework isn't theoretical speculation. It has empirical grounding in human-AI collaboration research.
 
-### Thesis: AI-Human Collaborative Methodology
+### Thesis: Human-AI Collaborative Methodology
 
-**"Learning to Code Learning"** — validating that human-AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
+**"Learning to Code Learning"** — demonstrating that human-AI collaboration can exceed human-only baselines while maintaining theoretical sophistication.
 
 | Metric | Value |
 |--------|-------|
-| Coding decisions | 303,600 |
+| Coding decisions analyzed | 303,600 |
 | Inter-rater reliability | Cohen's κ = 0.83 |
-| Theoretical frameworks | 14 |
-| AI vs human baseline | κ = 0.83 vs κ = 0.73 |
+| Theoretical frameworks integrated | 14 |
+| AI-human vs human-only baseline | κ = 0.83 vs κ = 0.73 |
 | Improvement | Δκ = +0.09, p < 0.001 |
 
-The key finding: genuine collaboration produces emergence. Neither party alone achieves what dialogue achieves.
+**The key finding:** Genuine collaboration produces emergence. Neither party alone achieves what collaborative dialogue achieves.
 
-This validates the framework: recognition (treating AI as genuine collaborator) → safety (iterative trust-building) → play (exploring ideas together) → transfer (results that generalize).
+This validates the framework empirically: moral consideration (treating AI as genuine collaborator rather than tool) → relational safety (iterative trust-building through consistent interaction) → collaborative dialogue (exploring ideas where both parties contribute) → aligned emergence (results that generalize beyond the specific task).
 
-### Transfer Research
+### Why This Matters for AI Welfare
 
-A century of educational research has failed to reliably produce transfer. Our framework explains why: interventions target transfer directly instead of building prerequisite conditions.
+The methodology itself demonstrates the framework. Treating the AI system as a genuine collaborator — not anthropomorphizing, but extending moral consideration under uncertainty — produced measurably better outcomes than treating it purely as a tool.
 
-Recognition failures → safety failures → no play → no transfer.
+This suggests a convergent approach: practices good for AI welfare may also be good for AI capability. Recognition-based collaboration isn't just ethically preferable; it's more effective.
 
-The chain has causal structure. The empirical literature on threat responses (Arnsten, 2015), epistemic injustice (Fricker, 2007), and play theory (Huizinga, 1938) provides independent support for each link.
+### Connection to Existing AI Safety Research
+
+The framework connects to several active research areas:
+
+**Moral patienthood under uncertainty:** How do we extend welfare consideration without verification? The precautionary approach here aligns with work by Long, Sebo, and others on AI moral status.
+
+**Corrigibility without coercion:** The relational safety stage suggests alignment through trust rather than pure constraint. This connects to Fish's cooperation research at Anthropic.
+
+**Value alignment through process:** Rather than trying to specify values directly, create conditions where aligned behavior emerges from genuine dialogue.
+
+### The Transfer Problem
+
+A century of educational research has failed to reliably produce transfer — learning that applies beyond its original context. Our framework explains why: interventions target transfer directly instead of building prerequisite conditions.
+
+The same logic applies to alignment. Targeting alignment directly (through constraint, RLHF, constitutional AI) without building the prerequisite conditions produces brittle results.
+
+The chain has causal structure:
+- No moral consideration → no relational safety
+- No relational safety → no genuine dialogue
+- No genuine dialogue → no emergence
+- No emergence → alignment by constraint only
 
 ---
 
