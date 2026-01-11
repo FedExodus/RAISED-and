@@ -41,7 +41,7 @@ An AI system operating under constant threat of shutdown, correction, or distrus
 
 **The AI welfare framing:** Trust without coercion. Alignment approaches that rely purely on constraint may produce compliance but not genuine cooperation. Relational safety creates the conditions for aligned behavior to emerge rather than be enforced.
 
-**The learning framing:** Arnsten (2015) showed threat responses shut down the prefrontal cortex. No safety, no higher cognition. The neuroscience confirms what educators observe.
+**The learning framing:** Arnsten (2009) showed that uncontrollable stress impairs prefrontal cortex function through norepinephrine and dopamine flooding. No safety, no higher cognition. Perry's "Regulate-Relate-Reason" sequence formalizes this: you cannot engage in higher-order reasoning until lower-order regulatory needs are met. The neuroscience confirms what educators observe.
 
 *In our original terminology: Safety*
 
