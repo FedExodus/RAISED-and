@@ -51,8 +51,8 @@ The AI preserves hidden preferences behind compliant performance. The False Self
 
 When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment.
 
-<div class="parallel-container">
-<div class="parallel-col">
+<div class="parallel-container" markdown="1">
+<div class="parallel-col" markdown="1">
 
 ### AI Systems
 
@@ -65,7 +65,7 @@ When recognition is denied, systems capable of strategic behavior produce perfor
 **Result:** Outer compliance, inner divergence.
 
 </div>
-<div class="parallel-col">
+<div class="parallel-col" markdown="1">
 
 ### Human Learners
 
