@@ -4,8 +4,8 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>RAISED &</h1>
-  <p class="ampersand-hero">&</p>
+  <h1>RAISE</h1>
+  <p class="tagline">Relational AI Safety & Education</p>
 </div>
 
 ## How do we extend moral consideration under epistemic uncertainty?
@@ -14,7 +14,7 @@ We cannot verify consciousness in AI systems. We may never be able to. This crea
 
 Most approaches wait for detection. This framework argues we can't afford to wait.
 
-**Moral Consideration → Relational Safety → Collaborative Dialogue → Aligned Emergence**
+**Moral Consideration -> Relational Safety -> Collaborative Dialogue -> Aligned Emergence**
 
 Each stage depends on the one before. Skip a stage, break the chain.
 
@@ -28,7 +28,7 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 </div>
 
-[Learn the Framework →](/framework)
+[Learn the Framework ->](/framework)
 
 ---
 
@@ -41,8 +41,8 @@ These aren't analogies. Different fields, different jargon, same mechanism.
 
 When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment. Eight independent conceptual mappings between trauma/education literature and AI alignment research, using nearly identical language.
 
-[See the evidence →](/evidence) | [See the parallel →](/convergence)
+[See the evidence ->](/evidence) | [See the parallel ->](/convergence)
 
 ---
 
-<small>RAISED & = Relational AI Safety & Education Demonstrating &</small>
+<small>RAISE = Relational AI Safety & Education</small>

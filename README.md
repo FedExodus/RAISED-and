@@ -1,8 +1,8 @@
-# RAISED &
+# RAISE
 
-**Relational AI Safety Education Demonstrating &**
+**Relational AI Safety & Education**
 
-Research at the intersection of learning sciences, AI ethics, and philosophy of mind.
+Research bridging learning sciences, AI ethics, and philosophy of mind.
 
 ---
 
