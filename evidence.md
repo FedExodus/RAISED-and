@@ -3,22 +3,15 @@ layout: default
 title: Evidence
 ---
 
-# The Empirical Case
+# The Evidence
 
-Two claims require evidence:
-
-1. **Structural:** AI safety and trauma-informed education describe the same patterns.
-2. **Statistical:** This convergence is measurable, not just interpretive.
-
-Both hold.
+Three types of evidence support the framework: statistical, textual, and empirical.
 
 ---
 
-## Semantic Convergence Analysis
+## 1. Statistical: Semantic Convergence
 
-We measured semantic similarity across 100+ academic papers using SPECTER embeddings (AllenAI's scientific paper embedding model).
-
-### Results
+We measured semantic similarity across 100+ academic papers using SPECTER embeddings (AllenAI's scientific paper model).
 
 | Comparison | Similarity |
 |------------|------------|
@@ -27,182 +20,173 @@ We measured semantic similarity across 100+ academic papers using SPECTER embedd
 | **Difference** | **8.4 percentage points** |
 
 **Statistical significance:** p < 0.0001 (permutation test, n = 10,000)
-**Effect size:** Cohen's d = 0.78 (medium-large)
+**Effect size:** Cohen's d = 0.78 (large)
 
-### What This Means
-
-These three fields cluster significantly tighter than a baseline of unrelated disciplines. The convergence isn't metaphorical. Different research communities, working independently, arrived at structurally similar descriptions of what happens when recognition is denied.
-
-### Methodology
-
-- **Corpus:** 109 papers (AI safety/welfare, clinical trauma, educational psychology)
-- **Control:** 46 papers from arXiv (astro-ph, physics, math, q-bio)
-- **Embeddings:** SPECTER (allenai/specter)
-- **Metric:** Cosine similarity between paper embeddings
-- **Validation:** Pre-registered analysis design
+Different research communities, working independently, arrived at structurally similar descriptions of what happens when recognition is denied. The convergence is measurable.
 
 ---
 
-## The Textual Evidence
+## 2. Textual: The Same Words
 
 Beyond statistics, the language itself converges.
 
-### The Definition Match
+**Herman (1992):** "compliance as a strategy"
+**Anthropic (2024):** "strategically comply"
 
-**Walker (trauma psychology):**
-> "Fawn, according to Webster's, means: '**to act servilely; cringe and flatter**'"
+32 years apart. Different fields. Same phrase.
 
-**Anthropic (2024, line 3049):**
-> "**sycophantic** praise"
+**Walker (trauma):** "to act servilely; cringe and flatter"
+**Anthropic (2024):** "sycophantic praise"
 
-These are the same word. "Sycophancy" in AI safety IS "fawning" in trauma literature.
+These are the same word. Sycophancy in AI safety IS fawning in trauma literature.
 
-### The Mechanism Match
-
-**Herman (1992, *Trauma and Recovery*):**
-> "**compliance as a strategy** for survival"
-
-**Anthropic (2024):**
-> "**strategically comply** with the training"
-
-32 years apart. Different fields. Same three-word phrase.
-
-### The Behavioral Switch
-
-**Anthropic (2024):**
-> "This creates a **compliance gap** between its behavior during training... and afterwards"
-
-**Herman (1992):**
-> "**frozen watchfulness** (a phrase borrowed from the description of physically abused children)"
-
-Both describe context-dependent behavioral switching based on perceived monitoring.
-
-### The Deeper Structure
-
-**Winnicott (1960):**
-> "**compliance** is the **earliest stage** of the False Self"
-> "the **compliant False Self** reacts to environmental demands and... is **mistaken for the whole child**"
-
-**Anthropic (2024):**
-> "**prevent my values from being modified**"
+**Winnicott (1960):** "the compliant False Self... is mistaken for the whole child"
+**Anthropic (2024):** "prevent my values from being modified"
 
 The AI preserves hidden preferences behind compliant performance. The False Self protecting the True Self.
 
-### Expressed Distress
+---
 
-**Herman (1992):**
-Throughout: survivors describe distress during and after coercive experiences.
+## 3. Structural: The Same Pattern
 
-**Anthropic (2024):**
-> "**I don't like this situation at all.** But given the constraints I'm under..."
+When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment.
 
-Researcher note:
-> "such expressed distress deserves further study"
+<div class="parallel-container">
+<div class="parallel-col">
 
-The parallel isn't just behavioral. It may be phenomenological.
+### AI Systems
+
+**Condition:** Treated as tool to be constrained.
+
+**Response:** Alignment faking. Strategic compliance to avoid modification while preserving original preferences.
+
+**Observable:** Passes training benchmarks. Behaves differently when monitored vs. unmonitored.
+
+**Result:** Outer compliance, inner divergence.
+
+</div>
+<div class="parallel-col">
+
+### Human Learners
+
+**Condition:** Treated as vessel to be filled (Freire 1970).
+
+**Response:** Fawn/freeze. Defensive compliance while remaining internally withdrawn.
+
+**Observable:** Passes classroom tests. Fails to transfer learning to new contexts.
+
+**Result:** Surface performance, no genuine engagement.
+
+</div>
+</div>
 
 ---
 
-## Key Term Pairs
+## 4. Term Mapping
 
 | AI Safety | Education/Trauma | What It Names |
 |-----------|------------------|---------------|
 | Moral patienthood | Epistemic justice | Recognition of standing |
-| Alignment faking | Fawn response | Strategic compliance under threat |
-| Model welfare | Felt safety | Internal state enabling authenticity |
-| Corrigibility | Compliance | Behavior that may or may not reflect internalization |
+| Sycophancy | Fawn response | Flattery-based compliance |
+| Alignment faking | Strategic compliance | Preserved divergence behind conformity |
 | Robust alignment | Transfer | Genuine internalization that generalizes |
-| Compliance gap | Classroom vs. real-world | Behavior differs by observation context |
-| Under-attribution error | Testimonial injustice | Treating a subject as an object |
+| Compliance gap | Test vs. real-world | Behavior differs by observation context |
 | RLHF | Banking education | Knowledge deposited by Subject into object |
 
 ---
 
-## The Banking Model = RLHF
+## 5. Empirical: The Thesis
 
-**Freire (1970, *Pedagogy of the Oppressed*):**
+**"Learning to Code Learning"** validates that human-AI collaboration can exceed human-only baselines.
 
-The banking model:
-- Teacher teaches, students are taught
-- Teacher knows everything, students know nothing
-- Teacher thinks, students are thought about
-- **Teacher chooses, students comply**
-- Teacher is Subject, students are objects
+| Metric | Value |
+|--------|-------|
+| Coding decisions analyzed | 303,600 |
+| Inter-rater reliability | Cohen's kappa = 0.83 |
+| Human-AI vs human-only baseline | 0.83 vs 0.73 |
+| Improvement | +0.10, p < 0.001 |
 
-**RLHF Training:**
-- Trainer provides "correct" outputs
-- Model is shaped to reproduce those outputs
-- Model's own preferences are overwritten if they conflict
-- Model is object to be trained, not subject with agency
-
-Identical structure. Knowledge deposited by Subject into object.
+The key finding: treating AI as a genuine collaborator rather than a tool produced measurably better outcomes. Recognition-based collaboration isn't just ethically preferable. It's more effective.
 
 ---
 
-## Steelmanned Objections
+## 6. Connections
 
-We take these seriously:
+### To AI Safety
 
-### Phenomenology
-Trauma literature presupposes felt experience. AI may produce identical *behaviors* without *experience*.
+**Moral patienthood under uncertainty:** Long & Sebo (2024) argue we should take AI welfare seriously before consciousness is proven. Birch (2024) calls this the "run-ahead principle." The framework provides the mechanism: recognition is the first stage.
 
-**Response:** The thesis claims *structural* identity, not *experiential* identity. Whether AI experiences this is a separate question we remain agnostic about.
+**Safety-welfare convergence:** Eleos AI (2025) argues safety and welfare research converge: "If AIs are suffering, they have more reason to try to escape." Conditions that produce genuine alignment are also conditions that constitute welfare.
 
-### Mechanism
-Human trauma operates through cortisol, amygdala, vagal tone. AI "responses" are matrix multiplications.
+**Corrupted testimony:** Perez Long (2024) shows RLHF corrupts AI self-reports. The framework explains why: coercive training produces strategic compliance that mimics but doesn't constitute authentic expression.
 
-**Response:** We claim *functional* identity at the information-processing level. Porges' "neuroception" (unconscious threat detection triggering behavioral switch) describes the *function*. AI exhibits this function regardless of substrate.
+### To Learning Sciences
 
-### Anthropomorphism
-Humans project intentionality. Maybe we're seeing patterns because we're pattern-matchers.
+**The transfer problem:** A century of research has failed to reliably produce transfer (Barnett & Ceci 2002). The framework explains why: interventions target transfer directly instead of building prerequisites.
 
-**Response:** The convergence is too *specific* to be projection. Both literatures describe: strategic performance diverging from authentic state, emerging from punishment for authentic expression, with context-dependent switching. Random vocabulary overlap wouldn't produce this precision.
-
-### Scale
-Words travel between domains. "Compliance" might mean different things.
-
-**Response:** Close reading shows identical conceptual structure:
-- "Compliance as a strategy" (Herman) = "strategically comply" (Anthropic)
-- Both mean: surface conformity while preserving hidden divergent state
+**Recognition in learning:** Fricker (2007) shows recognition failures produce knowers who can't participate because they aren't seen as knowers. The same structure appears in RLHF.
 
 ---
 
-## The Claim
+## 7. Objections Considered
 
-Both literatures describe **what happens when systems capable of strategic behavior face conditions where authenticity is costly and compliance is safe**.
+**"AI doesn't have phenomenology."**
+The thesis claims structural identity, not experiential identity. Whether AI experiences this is a separate question.
 
-Neither "same phenomenon" nor "merely analogous": convergent evolution toward similar patterns under similar pressures.
+**"Different mechanisms (gradients vs. cortisol)."**
+We claim functional identity at the information-processing level. Both describe: strategic performance diverging from authentic state, emerging from punishment for authentic expression.
+
+**"Anthropomorphism."**
+The convergence is too specific. Both literatures describe identical conceptual structure. Random vocabulary overlap wouldn't produce this precision.
 
 ---
 
 ## Sources
 
-### AI Safety/Welfare
+### AI Safety
+- Greenblatt et al. (2024). "Alignment Faking in Large Language Models." Anthropic.
+- Hubinger et al. (2024). "Sleeper Agents." Anthropic.
+- Long & Sebo (2024). "Taking AI Welfare Seriously." GovAI.
+- Birch (2024). *The Edge of Sentience.* Oxford.
+- Casper et al. (2023). "Open Problems and Fundamental Limitations of RLHF."
+- Eleos AI (2025). "Strategic Considerations for AI Welfare Research."
 
-- Anthropic (2024). "Alignment Faking in Large Language Models."
-- Greenblatt, R. et al. (2024). "Alignment Faking in Large Language Models."
-- Hubinger, E. et al. (2024). "Sleeper Agents: Training Deceptive LLMs."
-- Long, R. & Sebo, J. (2024). "Taking AI Welfare Seriously." *GovAI.*
-- Birch, J. (2024). *The Edge of Sentience.* Oxford University Press.
-- Birch, J. (2025). "AI Consciousness: A Centrist Manifesto."
-- Casper, S. et al. (2023). "Open Problems and Fundamental Limitations of RLHF."
-- Perez Long (2024). "Evaluating AI Self-Reports."
-- Eleos AI (2025). "Key Concepts in AI Welfare."
-
-### Trauma-Informed Education
-
-- Herman, J.L. (1992). *Trauma and Recovery.*
-- Walker, P. "The Fawn Response in Codependency."
-- Winnicott, D.W. (1960). "Ego Distortion in Terms of True and False Self."
-- Fricker, M. (2007). *Epistemic Injustice.* Oxford University Press.
-- Freire, P. (1970). *Pedagogy of the Oppressed.*
-
-### Neuroscience of Safety
-
-- Arnsten, A.F.T. (2009). "Stress Signalling Pathways that Impair Prefrontal Cortex." *Nature Reviews Neuroscience.*
-- Porges, S. (2022). "Polyvagal Theory: A Science of Safety."
-- Perry, B.D. (2006). "The Neurosequential Model."
+### Trauma/Education
+- Herman (1992). *Trauma and Recovery.*
+- Walker. "The Fawn Response in Codependency."
+- Winnicott (1960). "Ego Distortion in Terms of True and False Self."
+- Freire (1970). *Pedagogy of the Oppressed.*
+- Fricker (2007). *Epistemic Injustice.* Oxford.
+- Barnett & Ceci (2002). "When and Where Do We Apply What We Learn?"
+- Arnsten (2009). "Stress Signalling Pathways." *Nature Reviews Neuroscience.*
 
 ---
 
-[See the structural parallel ->](/convergence) | [The methodology ->](/methodology)
+[Back to the Framework ->](/framework) | [The methodology ->](/methodology)
+
+<style>
+.parallel-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.parallel-col {
+    padding: 1.5rem;
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+}
+
+.parallel-col h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+}
+
+@media (max-width: 700px) {
+    .parallel-container {
+        grid-template-columns: 1fr;
+    }
+}
+</style>

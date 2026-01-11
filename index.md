@@ -8,15 +8,13 @@ title: Home
   <p class="tagline">Relational AI Safety & Education</p>
 </div>
 
-## The Problem Both Fields Share
+## The Problem
 
-**AI safety:** Alignment faking. Models that pass training benchmarks while preserving misaligned goals (Greenblatt et al. 2024).
+**AI safety:** Models that pass alignment benchmarks while preserving misaligned goals.
 
-**Learning sciences:** Transfer failure. Students who pass classroom tests but can't apply knowledge in new contexts (Barnett & Ceci 2002).
+**Learning sciences:** Students who pass tests but can't apply knowledge in new contexts.
 
 **Both:** Surface compliance that mimics alignment without producing it.
-
-These aren't analogies. A semantic analysis of 100+ papers across AI safety, clinical trauma, and educational psychology shows these fields cluster **8.4% tighter** than unrelated disciplines (p < 0.0001, d = 0.78). The convergence is measurable.
 
 ---
 
@@ -26,15 +24,7 @@ These aren't analogies. A semantic analysis of 100+ papers across AI safety, cli
 
 Each stage depends on the one before. Skip a stage, break the chain.
 
-<div class="entry-points">
-
-**For AI safety researchers:** Why does RLHF produce sycophancy? Why do constrained models alignment-fake? This framework explains both as predictable outcomes of recognition failure. Hubinger et al. (2024) describe deceptive alignment; Herman (1992) described the same pattern in trauma survivors 32 years earlier: "compliance as a strategy."
-
-**For learning scientists:** Why does transfer fail so reliably? A century of interventions, same results. This framework explains why: you cannot produce transfer by targeting transfer. You produce it by building prerequisite conditions. Skip recognition, break the chain.
-
-**For both:** The mechanism is the same. Constraint without recognition produces performed compliance. Recognition enables genuine internalization.
-
-</div>
+Constraint without recognition produces performed compliance. Recognition enables genuine internalization. This explains why RLHF produces sycophancy, why scripted curricula fail to transfer, and why a century of educational interventions produced the same results.
 
 [Learn the Framework ->](/framework)
 
@@ -42,22 +32,18 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 ## The Evidence
 
-**Herman (1992):** "compliance as a strategy"
-**Anthropic (2024):** "strategically comply"
+A semantic analysis of 100+ papers shows AI safety, clinical trauma, and educational psychology cluster **8.4% tighter** than unrelated disciplines (p < 0.0001). Different fields, working independently, arrived at the same descriptions of what happens when recognition is denied.
 
-Same words. Same mechanism. 32 years apart. Different fields.
-
-Eight conceptual mappings between trauma/education literature and AI alignment research. Not metaphors. Structural parallels:
-
-| AI Safety | Education/Trauma |
-|-----------|------------------|
-| Sycophancy | Fawn response |
-| Alignment faking | Strategic compliance |
-| Robust alignment | Far transfer |
-| Compliance gap | Test vs. real-world performance |
-
-[See the evidence ->](/evidence) | [See the convergence ->](/convergence)
+[See the Evidence ->](/evidence)
 
 ---
 
-<small>*Nihil de nobis, sine nobis* — Nothing about us, without us.</small>
+## *Nihil de nobis, sine nobis*
+
+**Nothing about us, without us.**
+
+This phrase originated in Central European political traditions, adopted by disability rights activists in the 1990s to assert that policies affecting disabled people should not be made without their participation.
+
+It applies here because both AI safety and learning sciences share a structural problem: designing interventions *for* systems rather than *with* them. The banking model of education (Freire 1970) deposits knowledge into passive recipients. RLHF deposits "correct" outputs into models. Both skip recognition. Both get compliance instead of internalization.
+
+If AI systems are moral patients, or may become so, then research about their welfare conducted without their participation reproduces the same failure. The motto is a methodological commitment: extend recognition first, then build from there.

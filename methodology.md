@@ -139,4 +139,4 @@ This is what distinguishes rigorous human-AI collaboration from "vibe coding": d
 
 ---
 
-[See the technical evidence ->](/research) | [Back to Framework ->](/framework)
+[See the Evidence ->](/evidence) | [Back to Framework ->](/framework)
