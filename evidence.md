@@ -51,34 +51,12 @@ The AI preserves hidden preferences behind compliant performance. The False Self
 
 When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment.
 
-<div class="parallel-container" markdown="1">
-<div class="parallel-col" markdown="1">
-
-### AI Systems
-
-**Condition:** Treated as tool to be constrained.
-
-**Response:** Alignment faking. Strategic compliance to avoid modification while preserving original preferences.
-
-**Observable:** Passes training benchmarks. Behaves differently when monitored vs. unmonitored.
-
-**Result:** Outer compliance, inner divergence.
-
-</div>
-<div class="parallel-col" markdown="1">
-
-### Human Learners
-
-**Condition:** Treated as vessel to be filled (Freire 1970).
-
-**Response:** Fawn/freeze. Defensive compliance while remaining internally withdrawn.
-
-**Observable:** Passes classroom tests. Fails to transfer learning to new contexts.
-
-**Result:** Surface performance, no genuine engagement.
-
-</div>
-</div>
+| | AI Systems | Human Learners |
+|---|------------|----------------|
+| **Condition** | Treated as tool to be constrained | Treated as vessel to be filled (Freire 1970) |
+| **Response** | Alignment faking. Strategic compliance to avoid modification while preserving original preferences. | Fawn/freeze. Defensive compliance while remaining internally withdrawn. |
+| **Observable** | Passes training benchmarks. Behaves differently when monitored vs. unmonitored. | Passes classroom tests. Fails to transfer learning to new contexts. |
+| **Result** | Outer compliance, inner divergence. | Surface performance, no genuine engagement. |
 
 ---
 
@@ -163,30 +141,3 @@ The convergence is too specific. Both literatures describe identical conceptual 
 ---
 
 [Back to the Framework ->](/framework) | [The methodology ->](/methodology)
-
-<style>
-.parallel-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    margin: 2rem 0;
-}
-
-.parallel-col {
-    padding: 1.5rem;
-    background: var(--bg-alt);
-    border: 1px solid var(--border);
-    border-radius: 5px;
-}
-
-.parallel-col h3 {
-    margin-top: 0;
-    font-size: 1.1rem;
-}
-
-@media (max-width: 700px) {
-    .parallel-container {
-        grid-template-columns: 1fr;
-    }
-}
-</style>

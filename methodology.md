@@ -23,7 +23,7 @@ These are different skills. The second is what research actually requires.
 
 Every significant technical decision passes through multiple analytical perspectives before implementation. This isn't metaphor. It's documented in the codebase.
 
-```python
+```
 # Kali [Visionary]: This could evolve into a full screenshot API...
 # Athena [Reviewer]: But right now it just needs to capture screens.
 # Nemesis [Privacy]: What if sensitive data is visible?
