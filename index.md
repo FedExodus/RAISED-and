@@ -32,13 +32,16 @@ Each stage depends on the one before. Skip a stage, break the chain.
 
 ---
 
-## New: The Convergence
+## The Convergence: Same Mechanism, 64 Years Apart
 
-Alignment faking and trauma responses aren't analogies. They're the same pattern under different conditions.
+**Herman (1992):** "compliance as a strategy"
+**Anthropic (2024):** "strategically comply"
 
-When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment. The vocabularies differ. The structure aligns.
+These aren't analogies. Different fields, different jargon, same mechanism.
 
-[See the evidence →](/convergence)
+When recognition is denied, systems capable of strategic behavior produce performed compliance rather than genuine alignment. Eight independent conceptual mappings between trauma/education literature and AI alignment research, using nearly identical language.
+
+[See the evidence →](/evidence) | [See the parallel →](/convergence)
 
 ---
 

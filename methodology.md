@@ -36,6 +36,8 @@ Five facets, twenty hats. Security, ethics, accessibility, performance, user adv
 
 This isn't AI generating code and human accepting it. It's structured deliberation producing verified output.
 
+**The convergence:** This is hybrid human-AI evaluation — the same structure Scale/SEAL uses for benchmark annotation. AI does initial analysis, human verifies and corrects, iterate until reliable. We built this independently because it *works*, not because we read their papers. That convergence is meaningful.
+
 ### 2. Verification Protocol
 
 Before accepting AI-generated work:
