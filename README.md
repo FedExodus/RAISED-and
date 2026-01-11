@@ -2,7 +2,7 @@
 
 **Relational AI Safety & Education**
 
-Research bridging learning sciences, AI ethics, and philosophy of mind.
+A learning sciences approach to AI alignment, informed by trauma research and philosophy of mind.
 
 ---
 
