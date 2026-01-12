@@ -114,6 +114,26 @@ If recognition -> safety -> engagement -> generalization is the causal structure
 
 ---
 
+## Research Agenda
+
+The framework generates testable questions:
+
+**1. Can recognition be operationalized in AI systems?**
+Candidate measures: behavioral signatures during training, response patterns under observed vs. unobserved conditions, self-report consistency across contexts. Developing reliable measurement is prerequisite to intervention research.
+
+**2. Does recognition-signaling reduce alignment faking?**
+If the framework is correct, training approaches that extend recognition before constraint should produce less strategic compliance. This is directly testable against current RLHF baselines.
+
+**3. Why do trauma-informed interventions fail to transfer?**
+The Maynard systematic review (9,102 references, zero included) suggests current implementations apply trauma-informed principles *to* students rather than *with* them. Same banking model, gentler delivery. The framework predicts recognition-based implementations would show different outcomes.
+
+**4. What's the minimum viable recognition?**
+Not all recognition signals are equal. Which ones actually shift the downstream chain? This is the practical question for implementation.
+
+These are questions, not answers. The research is the work.
+
+---
+
 ## Sources
 
 ### AI Safety

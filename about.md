@@ -85,6 +85,8 @@ This isn't a claim about AI consciousness. It's a methodological commitment: tre
 
 nbatty@wisc.edu
 
+I build in public. This site is my contribution to the conversation.
+
 ---
 
 [Full CV ->](cv) | [Back to the Framework ->](framework) | [See the Evidence ->](evidence)

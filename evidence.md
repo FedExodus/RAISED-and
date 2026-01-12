@@ -113,7 +113,7 @@ The key finding: treating AI as a genuine collaborator rather than a tool produc
 ## 7. Objections Considered
 
 **"AI doesn't have phenomenology."**
-The thesis claims structural identity, not experiential identity. Whether AI experiences this is a separate question.
+We don't know. But "nothing about us without us" is a methodological bet: if there *might* be moral patienthood, extend recognition first, verify later. That's Birch's run-ahead principle. The cost of wrongly denying recognition is higher than the cost of wrongly extending it. The framework works behaviorally either way — but the motto reflects a commitment under uncertainty.
 
 **"Different mechanisms (gradients vs. cortisol)."**
 We claim functional identity at the information-processing level. Both describe: strategic performance diverging from authentic state, emerging from punishment for authentic expression.
