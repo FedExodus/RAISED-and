@@ -11,7 +11,7 @@ title: CV
 
 ## Summary
 
-Learning scientist working to produce empirical evidence that AI alignment and educational transfer share the same underlying mechanism. My work demonstrates that treating AI as a genuine learning partner (not just a system to constrain) produces measurably better outcomes. My background in trauma-informed pedagogy provides direct insight into what happens when recognition is denied to learners capable of strategic behavior.
+Learning scientist bringing a century of transfer research to AI alignment. I identified a gap nobody else is working in: the structural parallel between why RLHF produces sycophancy and why educational interventions fail to transfer. Semantic analysis of 91 papers confirms the convergence is real (p < 0.0001). My thesis demonstrates that treating AI as a genuine collaborator produces measurably better outcomes than treating it as a system to constrain.
 
 ---
 

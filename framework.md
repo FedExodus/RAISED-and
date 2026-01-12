@@ -134,13 +134,25 @@ Not all recognition signals are equal. Which ones actually shift the downstream 
 
 These are questions, not answers. The research is the work.
 
+**What would falsify this?** If constraint-based approaches reliably produce robust alignment or transfer without recognition, the framework is wrong. So far, a century of evidence suggests they don't.
+
+**I'm looking for a research position where I can test these questions empirically.**
+
+---
+
+## What This Framework Isn't
+
+- **Not a claim that AI is conscious.** The framework is agnostic on phenomenology.
+- **Not a claim that RLHF is useless.** It's a claim about what RLHF alone can't achieve.
+- **Not a claim that recognition alone is sufficient.** All four stages matter.
+
 ---
 
 ## Sources
 
 ### AI Safety
 - Greenblatt, R. et al. (2024). "Alignment Faking in Large Language Models." *Anthropic.*
-- Hubinger, E. et al. (2024). "Sleeper Agents." *Anthropic.*
+- Hubinger, E. et al. (2024). "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training." *Anthropic.*
 - Long, R. & Sebo, J. (2024). "Taking AI Welfare Seriously." *GovAI Working Paper.*
 - Birch, J. (2024). *The Edge of Sentience.* Oxford University Press.
 - Casper, S. et al. (2023). "Open Problems and Fundamental Limitations of RLHF." *arXiv.*

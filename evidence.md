@@ -127,11 +127,11 @@ The convergence is too specific. Both literatures describe identical conceptual 
 
 ### AI Safety
 - Greenblatt et al. (2024). "Alignment Faking in Large Language Models." Anthropic.
-- Hubinger et al. (2024). "Sleeper Agents." Anthropic.
+- Hubinger et al. (2024). "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training." Anthropic.
 - Long & Sebo (2024). "Taking AI Welfare Seriously." GovAI.
 - Birch (2024). *The Edge of Sentience.* Oxford.
 - Casper et al. (2023). "Open Problems and Fundamental Limitations of RLHF."
-- Eleos AI (2025). "Strategic Considerations for AI Welfare Research."
+- Eleos AI (2025). "Key Strategic Considerations for AI Welfare Research." Working paper.
 
 ### Trauma/Education
 - Herman (1992). *Trauma and Recovery.*
