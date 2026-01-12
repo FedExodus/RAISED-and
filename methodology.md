@@ -38,7 +38,7 @@ This isn't AI generating code and human accepting it. It's structured deliberati
 
 **Convergence:** This is hybrid human-AI evaluation. The same structure Scale/SEAL uses for benchmark annotation (AI does initial analysis, human verifies and corrects, iterate until reliable). We built this independently because it *works*. That convergence is meaningful.
 
-**See the code:** [tools/](https://github.com/FedExodus/RAISE/tree/master/tools) — working examples with polyphonic comments throughout.
+**See the code:** [tools/](https://github.com/FedExodus/RAISE/tree/master/tools). Working examples with polyphonic comments throughout.
 
 ### 2. Verification Protocol
 
