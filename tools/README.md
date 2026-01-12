@@ -85,7 +85,7 @@ python semantic_search.py --info     # Show index stats
 
 Post-processor that converts recognition_engine output into actionable markdown. Generates copy-paste YAML for Obsidian frontmatter. Demonstrates:
 - Pipeline architecture (recognition -> suggestion -> human review)
-- **AI suggests, human decides** - writes to review location, doesn't auto-modify
+- **Tools suggest, humans decide** - writes to review location, doesn't auto-modify
 - Clean separation of detection from intervention
 
 ```bash
