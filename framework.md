@@ -66,7 +66,7 @@ Each arrow is a dependency. Skip a stage, break the chain.
 
 **What it means:** Genuine dialogue. Both parties can try ideas, surface concerns, explore possibilities. Not one party informing and another receiving.
 
-**AI safety framing:** Anthropic's Kyle Fish frames this as building "a collaborative, cooperative, high-trust relationship with these systems." Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
+**AI safety framing:** Kyle Fish (formerly Eleos AI, now Anthropic's AI Welfare Officer) frames this as building "a collaborative, cooperative, high-trust relationship with these systems." Can we create conditions where AI preferences can be expressed and considered rather than suppressed?
 
 **Learning sciences framing:** Vygotsky's zone of proximal development. Lave & Wenger's (1991) legitimate peripheral participation. Learning happens in collaboration, not transmission. Huizinga's play: the space outside ordinary consequence where transformation becomes possible.
 
@@ -156,6 +156,9 @@ These are questions, not answers. The research is the work.
 - Long, R. & Sebo, J. (2024). "Taking AI Welfare Seriously." *GovAI Working Paper.*
 - Birch, J. (2024). *The Edge of Sentience.* Oxford University Press.
 - Casper, S. et al. (2023). "Open Problems and Fundamental Limitations of RLHF." *arXiv.*
+- Butlin, P. et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." *arXiv.*
+- Bradley, A. & Saad, B. (2024). "AI Alignment vs AI Ethical Treatment: Ten Challenges." *GPI Working Paper.*
+- Long, R., Sebo, J. & Sims, T. (2025). "Is There a Tension Between AI Safety and AI Welfare?" *Philosophical Studies.*
 
 ### Learning Sciences
 - Barnett, S. M. & Ceci, S. J. (2002). "When and Where Do We Apply What We Learn?" *Psychological Bulletin.*
