@@ -14,11 +14,17 @@ python recognition_engine.py --help
 python semantic_search.py --help
 ```
 
+---
+
 ## The Tools
 
-### polyphony.py - Multi-Voice Dialogue Generator
+### 1. polyphony.py - Multi-Perspective Dialogue Generator
+*Lines: 700+ | Dependencies: anthropic (optional)*
 
-Generates structured debate between five perspectives on any question.
+Generates structured debate between five distinct cognitive perspectives on any question. Each perspective has a defined epistemic stance (expansion, analysis, construction, destruction, observation). Demonstrates:
+- Structured prompt engineering with distinct voice personas
+- Graceful fallback to template mode when no API key available
+- The thesis claim that insight emerges through friction between perspectives, not consensus
 
 ```bash
 python polyphony.py "What happens when AI is trained to be helpful above all else?"
@@ -30,9 +36,18 @@ python polyphony.py "Question" --save output.md
 
 ---
 
-### recognition_engine.py - Semantic Gap Detection
+### 2. recognition_engine.py - Semantic Gap Detection
+*Lines: 1000+ | Dependencies: sentence-transformers, networkx*
 
-Finds "recognition gaps" in an Obsidian vault - notes that are semantically similar but not connected in the graph.
+The thesis made computational. Finds "recognition gaps" by comparing two distance metrics:
+1. **Semantic distance** (sentence-transformer embeddings)
+2. **Graph distance** (network topology)
+
+High semantic similarity + low connection = recognition failure. Low semantic + high connection = creative bridge. Demonstrates:
+- Dual-embedding theory for gap detection
+- Local GPU processing (no data leaves machine)
+- Graph algorithms: betweenness centrality, clustering coefficient, PageRank
+- Ontological pattern filtering to reduce false positives
 
 ```bash
 python recognition_engine.py --vault /path/to/vault
@@ -45,9 +60,33 @@ python recognition_engine.py --bridges # Show only bridges
 
 ---
 
-### suggest_connections.py - Gap-to-Action Converter
+### 3. semantic_search.py - Natural Language Document Search
+*Lines: 550+ | Dependencies: sentence-transformers*
 
-Takes recognition_engine output and generates actionable markdown suggestions.
+Search documents by meaning, not keywords. "How do we handle disagreement" finds relevant docs even if they use different words. Demonstrates:
+- Document chunking by headers and size limits
+- Embedding-based similarity search
+- Incremental index updates (only re-embeds changed files)
+- All processing local, GPU-accelerated when available
+
+```bash
+python semantic_search.py "how do we handle disagreement"
+python semantic_search.py "where do files go"
+python semantic_search.py --rebuild  # Rebuild index
+python semantic_search.py --info     # Show index stats
+```
+
+**Note:** Run from directory containing your markdown files, or modify search paths in the code.
+
+---
+
+### 4. suggest_connections.py - Gap-to-Action Converter
+*Lines: 350+ | Dependencies: none (stdlib only)*
+
+Post-processor that converts recognition_engine output into actionable markdown. Generates copy-paste YAML for Obsidian frontmatter. Demonstrates:
+- Pipeline architecture (recognition -> suggestion -> human review)
+- **AI suggests, human decides** - writes to review location, doesn't auto-modify
+- Clean separation of detection from intervention
 
 ```bash
 python suggest_connections.py --input recognition_results.json --output suggestions.md
@@ -59,23 +98,15 @@ python suggest_connections.py --threshold 0.4   # Min gap score
 
 ---
 
-### semantic_search.py - Natural Language Search
+### 5. repo_self_analysis.py - Self-Improving Knowledge Graph
+*Lines: 1100+ | Dependencies: scikit-learn, numpy*
 
-Search documents by meaning, not keywords.
-
-```bash
-python semantic_search.py "how do we handle disagreement"
-python semantic_search.py --rebuild  # Rebuild index
-python semantic_search.py --info     # Show index stats
-```
-
-**Note:** Run from directory containing your markdown files, or modify search paths in the code.
-
----
-
-### repo_self_analysis.py - GitHub Issue Graph Analyzer
-
-Applies recognition gap detection to a GitHub repository's issue graph.
+The recognition engine applied to GitHub issues. A knowledge graph analyzing itself to find its own blind spots. Demonstrates:
+- TF-IDF embeddings + hierarchical clustering
+- Graph construction from "Related Issues" sections
+- Gap/bridge detection on issue graph
+- Generates `gh issue comment` commands for human approval
+- **Recursive thesis application** - the tool embodies what it detects
 
 ```bash
 # First, export your issues
@@ -86,6 +117,15 @@ python repo_self_analysis.py --input issues.json --output results.json
 ```
 
 **Output:** Clusters, gaps, bridges, and `gh issue comment` commands ready to copy-paste.
+
+---
+
+## Common Elements Across All Tools
+
+1. **Polyphonic code comments** - Five perspectives comment on every section, making reasoning visible
+2. **Local processing** - No data transmitted to external services (except optional Claude API for polyphony.py)
+3. **Graceful degradation** - Works without GPU, works without API keys, works offline
+4. **Human-in-the-loop** - Tools suggest, humans decide
 
 ---
 
@@ -103,9 +143,13 @@ Every tool uses five cognitive facets in code comments:
 
 This makes reasoning visible - not just WHAT the code does, but WHY, and what different perspectives think about it.
 
+---
+
 ## Example Outputs
 
 See the `examples/` directory for sample outputs from each tool.
+
+---
 
 ## Dependencies
 
@@ -123,6 +167,8 @@ Install all with:
 pip install -r requirements.txt
 ```
 
+---
+
 ## Files to .gitignore
 
 The tools create cache files you may want to ignore:
@@ -138,6 +184,8 @@ recognition_results.json
 *_results.json
 *_proposals.json
 ```
+
+---
 
 ## License
 
