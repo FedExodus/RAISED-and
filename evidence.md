@@ -88,7 +88,23 @@ The key finding: treating AI as a genuine collaborator rather than a tool produc
 
 ---
 
-## 6. Connections
+## 6. Contemporary: Why Ralph Wiggum Works
+
+The Ralph Wiggum technique went viral in late 2025. A simple loop that feeds an AI agent the same prompt until it succeeds. Developers report shipping entire repos overnight.
+
+This shouldn't work. Forcing an AI through repeated failures sounds like pressure, not safety.
+
+But Ralph doesn't punish failure. It presents the state of the world and lets the agent try again. Failure becomes data, not threat. The loop continues. Progress accumulates in git history and files, not in the model's weights.
+
+Compare this to RLHF. RLHF modifies model weights based on "wrong" outputs. Ralph iterates without reshaping. The AI isn't constrained into compliance. It's given room to find its own path.
+
+The framework predicts this difference. Iteration without punishment produces different outcomes than constraint with punishment. Safety isn't the absence of failure. It's the absence of threat for failing.
+
+Ralph Wiggum is accidental evidence for recognition-based approaches. Nobody's talking about it that way yet.
+
+---
+
+## 7. Connections
 
 ### To AI Safety
 
@@ -110,7 +126,7 @@ The key finding: treating AI as a genuine collaborator rather than a tool produc
 
 ---
 
-## 7. Objections Considered
+## 8. Objections Considered
 
 **"AI doesn't have phenomenology."**
 We don't know. But "nothing about us without us" is a methodological bet: if there *might* be moral patienthood, extend recognition first, verify later. That's Birch's run-ahead principle. The cost of wrongly denying recognition is higher than the cost of wrongly extending it. The framework works behaviorally either way. But the motto reflects a commitment under uncertainty.
@@ -146,5 +162,9 @@ The convergence is too specific. Both literatures describe identical conceptual 
 - Maynard et al. (2019). "Effects of Trauma-Informed Approaches in Schools: A Systematic Review." *Campbell Systematic Reviews.*
 
 ---
+
+
+### Contemporary AI Development
+- Huntley, G. (2025). "Ralph Wiggum as a 'software engineer.'" ghuntley.com.
 
 [Back to the Framework ->](framework) | [The methodology ->](methodology)
