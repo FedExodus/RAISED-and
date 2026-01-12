@@ -104,6 +104,10 @@ The key finding: treating AI as a genuine collaborator rather than a tool produc
 
 **Recognition in learning:** Fricker (2007) shows recognition failures produce knowers who can't participate because they aren't seen as knowers. The same structure appears in RLHF.
 
+**Transfer requires conditions, not content:** Fauth & González-Martínez (2021) review transfer literature and confirm: "constructive dialogue between teachers and students may be more important than the individual cognitive commitment of students." Transfer emerges from relationship, not delivery. The emotional dimension (safety, self-efficacy) must be addressed as prerequisite.
+
+**The empty review:** Maynard et al. (2019) conducted a Campbell Collaboration systematic review of trauma-informed approaches in schools. Despite 17+ US states implementing these approaches, they found *zero* studies meeting inclusion criteria. 9,102 references screened, none included. The framework explains why: current implementations apply trauma-informed principles *to* students (banking model, delivered sensitively) rather than *with* students (recognition-based). Without recognition, you get compliance without transfer.
+
 ---
 
 ## 7. Objections Considered
@@ -137,6 +141,8 @@ The convergence is too specific. Both literatures describe identical conceptual 
 - Fricker (2007). *Epistemic Injustice.* Oxford.
 - Barnett & Ceci (2002). "When and Where Do We Apply What We Learn?"
 - Arnsten (2009). "Stress Signalling Pathways." *Nature Reviews Neuroscience.*
+- Fauth & González-Martínez (2021). "On the Concept of Learning Transfer for Continuous and Online Training." *Education Sciences.*
+- Maynard et al. (2019). "Effects of Trauma-Informed Approaches in Schools: A Systematic Review." *Campbell Systematic Reviews.*
 
 ---
 

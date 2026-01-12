@@ -1,0 +1,21 @@
+# Requirements for RAISE polyphonic tools
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.21.0
+networkx>=2.6.0
+
+# Semantic embeddings (recognition_engine.py, semantic_search.py)
+sentence-transformers>=2.2.0
+torch>=1.9.0
+
+# Clustering and analysis (repo_self_analysis.py)
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# API client (polyphony.py)
+anthropic>=0.18.0
+python-dotenv>=1.0.0
+
+# YAML parsing (recognition_engine.py)
+pyyaml>=6.0
